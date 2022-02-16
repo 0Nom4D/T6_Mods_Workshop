@@ -1,11 +1,12 @@
 ## Tranzit
-```
+
+```txt
 ak74u_upgraded_zm
 ak74u_zm
 bowie_knife_zm
 cymbal_monkey_zm
 gl_type95_zm
-gl_xm8_zm 
+gl_xm8_zm
 hamr_upgraded_zm
 hamr_zm /hamr
 jetgun_upgraded_zm
@@ -60,7 +61,8 @@ xm8_zm //m8a1
 ```
 
 ## Nuketown
-```
+
+```txt
 ak74u_upgraded_zm
 ak74u_zm
 bowie_knife_zm
@@ -123,8 +125,10 @@ usrpg_zm
 xm8_upgraded_zm
 xm8_zm
 ```
+
 ## Die Rise
-```
+
+```txt
 ak74u_upgraded_zm
 ak74u_zm
 an94_upgraded_zm
@@ -189,8 +193,10 @@ usrpg_zm
 xm8_upgraded_zm
 xm8_zm
 ```
+
 ## Buried
-```
+
+```txt
 ak74u_upgraded_zm
 ak74u_zm
 an94_upgraded_zm
@@ -245,8 +251,10 @@ tazer_knuckles_zm
 usrpg_upgraded_zm
 usrpg_zm
 ```
+
 ## Mob of The Dead
-```
+
+```txt
 ak47_upgraded_zm
 ak47_zm
 alcatraz_shield_zm
@@ -289,8 +297,10 @@ upgraded_tomahawk_zm
 uzi_upgraded_zm
 uzi_zm
 ```
+
 ## Origins
-```
+
+```txt
 ak74u_upgraded_zm
 ak74u_zm
 ak74u_extclip_upgraded_zm
@@ -369,8 +379,10 @@ tomb_shield_zm
 type95_upgraded_zm
 type95_zm
 ```
+
 ## All maps
-```
+
+```txt
 870mcs_upgraded_zm
 870mcs_zm //remington shotgun
 barretm82_upgraded_zm
@@ -397,4 +409,36 @@ ray_gun_upgraded_zm
 ray_gun_zm
 raygun_mark2_upgraded_zm
 raygun_mark2_zm
+```
+
+## Attachments
+
+*In order to add attachments to a weapon, you'll have to write "weaponName+attachment".*
+
+```txt
+FMJ = +fmj
+Dual Band = +ir
+Laser = +steadyaim
+Long Barrel = +extbarrel
+Suppressor = +silencer
+Select Fire = +sf
+Tactical Knife = +tacknife
+Dual Wield = +dw
+Fast Mags = +dualclip
+Extended Mags = +extclip
+Grenade Launcher = +gl
+Iron Sights = +is
+Reflex = +reflex
+EOTech = +holo
+Rapid Fire = +rf
+Ballistic CPU = +swayreduc
+Tri Bolt = +stackfire
+Quickdraw = +fastads
+Grip = +grip
+Stock = +stalker
+Acog = +acog
+Zoom = +vzoom
+Target Finder = +rangefinder
+Hybrid Optic=  +dualoptic
+MMS = +mms
 ```
