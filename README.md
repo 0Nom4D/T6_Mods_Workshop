@@ -154,6 +154,19 @@ Your script must:
 
 By checking the Plutonium T6 Forums, you will be able to find what you need.
 
+As a bonus, you can make the script once again responsive depending on the map you're playing on.
+
+To validate your script, you can check if your game displays this when launching a game:
+
+Example on Origins, only map with 9 perks:
+![Alt Text](./screenshots/PerkExample.png)
+
+## :tada: Congratulations !
+
+You've now finished the workshop! Congrats! You are now able to make a tiny map-responsive GSC script.
+
+There's a lot more you can learn using GSC.
+
 ## To go further
 
 If you want to learn more about creating scripts and / or collaborate on Plutonium, you can check those links:
