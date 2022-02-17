@@ -118,7 +118,7 @@ Packed (Upgraded) Sliquifier (Die Rise Exclusive):
 Packed (Upgraded) AN94 with MMS and Foregrip (Buried Exclusive):
 ![Alt Text](./screenshots/AN94Example.png)
 
-Packed (Upgraded) Sliquifier (Origins Exclusive):
+Packed (Upgraded) Mauser C96 (Origins Exclusive):
 ![Alt Text](./screenshots/C96Example.png)
 
 Packed (Upgraded) MG08/15 (Origins Exclusive):
