@@ -40,6 +40,7 @@ onplayerspawned()
                 self giveWeapon("blundergat_upgraded_zm");
                 break;
             case "tomb":
+                // Adding 2 weapons because m1911_upgraded_zm and all its variants aren't available on map Origins
                 self giveWeapon("c96_upgraded_zm");
                 self giveWeapon("mg08_upgraded_zm");
                 break;
