@@ -146,7 +146,7 @@ With this whole list, we'll be able to add multiple perks. So why limit our play
 
 Your script must:
 
-- Let your player have 9 perks
+- Let your player have 9 perks (you will find each 9 perks ids from the [perk file](./perks.md))
 - Check if your player already have the perk
 - Check if the perk has been deactivated
 - Be removed if the player goes down, dies or if the `Who's who` perk is triggered
