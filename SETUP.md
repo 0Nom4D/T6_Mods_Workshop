@@ -2,6 +2,10 @@
 
 ## 1 - Installation
 
+Firstly, the workshop will be realised on Windows.
+
+You absolutely need to be on Windows in order to test your scripts and mods.
+
 For this workshop, you will need the following tools:
 
 - [Black Ops 2 - Plutonium T6](https://plutonium.pw/docs/install/) - The Plutonium T6 launcher download link
