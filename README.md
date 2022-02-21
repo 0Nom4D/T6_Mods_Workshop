@@ -81,7 +81,7 @@ M1911 is a really bad weapon but it's like zombie DNA! We can't leave it so we'r
 
 So in order to protect our player, we're going to give him one of the best multiplayer weapons of all time: the DSR-50. And not the unpacked DSR-50, we're going to give him a Iron Sights Silenced DSR-50, the most rare packed weapon of the game.
 
-You can check the [weapons.md](./weapons.md) file referencing every weapons and attachments.
+You can check the [weapons.md](./WEAPONS.md) file referencing every weapons and attachments.
 
 To check what attachment you can attach to what weapon, you can check out the wiki by search 'weapon name + bo2'. You might find callofduty.fandom.com/wiki.
 
@@ -97,7 +97,7 @@ Bonus script validation:
 
 ## Step 4: Give your player a specific weapon depending on the map
 
-Oh my Galil, wonderful creature! But there's more wonderful than the Silenced Packed Galil like the Blundergat, the Krauss Refibrillator, the Petrifier, the Boomhilda, the Sliquifier and the... Thrustodyne Aeronautics Model 23. So many wonder weapons but only on certain maps... :sob:
+Oh my DSR, wonderful creature! But there's more wonderful than the Silenced Packed Galil like the Blundergat, the Krauss Refibrillator, the Petrifier, the Boomhilda, the Sliquifier and the... Thrustodyne Aeronautics Model 23. So many wonder weapons but only on certain maps... :sob:
 
 ***Warning! Be careful when manipulating upgraded weapons! Some upgraded weapons have attachments but when rendering them with Plutonium, attachments aren't added to weapons. If you need / want to add them, you need to add them manually just as previous exercise.***
 
@@ -156,7 +156,7 @@ With this whole list, we'll be able to add multiple perks. So why limit our play
 
 Your script must:
 
-- Let your player have 9 perks (you will find each 9 perks ids from the [perk file](./perks.md))
+- Let your player have 9 perks (you will find each 9 perks ids from the [perk file](./PERKS.md))
 - Check if your player already have the perk
 - Check if the perk has been deactivated
 - Be removed if the player goes down, dies or if the `Who's who` perk is triggered
