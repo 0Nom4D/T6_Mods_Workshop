@@ -1,3 +1,7 @@
+# Black Ops 2 Weapons
+
+This file helps you to get every weapon id in the game, ordered by map.
+
 ## Tranzit
 
 ```txt
