@@ -19,27 +19,21 @@ Plutonium already revived *Call of Duty: World at War*, *Call of Duty: Black Ops
 
 ## Ok now... What is GSC?
 
-GSC is the language used by Activision (now Microsoft) developing studios: Infinite Ward, Treyarch, Raven Studios, Sledgehammer studios...
+GSC is the language used by Activision developing studios: Infinite Ward, Treyarch, Raven Studios, Sledgehammer studios...
 
 It is a compiled programming language and a C / C++ derived language using a lot... I mean a lot of threads. Almost based on threads.
 
-Unfortunalty, there's little documentation for this code. In this repository, you'll find a list of functions you can use to go through the workshop.
+Unfortunalty, there's little documentation for this langage. In this repository, you'll find a list of functions you can use to go through the workshop.
 
 ## And how can I compile my scripts if it's a compiled language?
 
-Good question! In this repository, you'll find a [GSC Compiler folder](./GSC Compiler/). Inside this folder, you'll find a Compiler.exe file.
+Good question! In this repository, you'll find a GSC Compiler folder inside the "GSC Compiler" folder. Inside this folder, you'll find a Compiler.exe file.
 
 While being on Windows, you can drag and drop the script file into the compiler. A file `nameofyourscript-compiled.gsc` will be created just near your script file.
 
 Finally, you just have to drag and drop your compiled file into the following folder: `C:\Users\$user\AppData\Local\Plutonium\storage\t6\scripts\zm`.
 
-First:
-
 ![Alt Text](https://plutonium.pw/images/docs/modding/loading-mods/OWtguHd.gif)
-
-Next:
-
-![Alt Text](https://plutonium.pw/images/docs/modding/loading-mods/RWrHJt5.png)
 
 ## Step 1: Bases of GSC Scripting
 
