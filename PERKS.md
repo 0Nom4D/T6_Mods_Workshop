@@ -9,7 +9,7 @@ This file helps you to get perks id in the game, ordered by map.
 - Speed Cola: "specialty_fastreload"
 - Double Tap II: "specialty_rof"
 - Stamin'Up: "specialty_longersprint"
-- Tombstone Soda: "specialty_scavenger"
+- Tombstone Soda: "specialty_scavenger" (only on Tranzit and Town)
 
 ## Die Rise
 
