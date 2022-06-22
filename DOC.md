@@ -1,6 +1,6 @@
 # GSC Scripting References
 
-***Note: Please not that function having 'x' can have multiple syntax. Ask the workshop creator for any questions.***
+***Note: Please note that function having 'x' can have multiple syntax. Ask the workshop creator for any questions.***
 
 ## Visual content functions
 
