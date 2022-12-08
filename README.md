@@ -1,6 +1,6 @@
 # Black Ops 2: Plutonium GSC Script Modding :scroll:
 
-Be sure to install every [prerequisites](./SETUP.md) in order to finish the workshop.
+Be sure to install every [prerequisite](./SETUP.md) in order to finish the workshop.
 
 In this workshop, you will:
 
